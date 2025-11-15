@@ -32,12 +32,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-Experience NetHawk in action: [**Live Demo**](https://your-demo-link.com)
-
-![NetHawk Dashboard](https://via.placeholder.com/800x400/1f2937/ffffff?text=NetHawk+Dashboard+Screenshot)
-
 ---
 
 ## ✨ Features
